@@ -29,16 +29,22 @@ Perubahan         : Bagian saluran di atas lambung dipisahkan dari model asli; t
 Ketentuan         : Penggunaan model turunan ini dibatasi untuk tujuan nonkomersial, dengan atribusi dan keterangan perubahan.
 
 4. USUS HALUS (usus-halus.glb)
-Status            : Belum ditambahkan.
-Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+Sumber: Small and large intestine oleh antonia.sundberg
+https://sketchfab.com/3d-models/small-and-large-intestine-8a1ca8e3ca224cdeb9264674416bde38
+Lisensi CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Modifikasi: model dipisahkan berdasarkan organ. Bagian rektum dipotong secara geometris dan memerlukan pemeriksaan anatomi.
 
 5. USUS BESAR (usus-besar.glb)
-Status            : Belum ditambahkan.
-Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+Sumber: Small and large intestine oleh antonia.sundberg
+https://sketchfab.com/3d-models/small-and-large-intestine-8a1ca8e3ca224cdeb9264674416bde38
+Lisensi CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Modifikasi: model dipisahkan berdasarkan organ. Bagian rektum dipotong secara geometris dan memerlukan pemeriksaan anatomi.
 
 6. REKTUM (rektum.glb)
-Status            : Belum ditambahkan.
-Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+Sumber: Small and large intestine oleh antonia.sundberg
+https://sketchfab.com/3d-models/small-and-large-intestine-8a1ca8e3ca224cdeb9264674416bde38
+Lisensi CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Modifikasi: model dipisahkan berdasarkan organ. Bagian rektum dipotong secara geometris dan memerlukan pemeriksaan anatomi.
 
 7. ANUS (anus.glb)
 Status            : Belum ditambahkan.
