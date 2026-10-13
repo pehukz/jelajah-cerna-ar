@@ -1,0 +1,11 @@
+Model Information:
+* title:	mouth
+* source:	https://sketchfab.com/3d-models/mouth-acdf4c0ede7d49779f8cbfa5b4275990
+* author:	Floumloum (https://sketchfab.com/floumloum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "mouth" (https://sketchfab.com/3d-models/mouth-acdf4c0ede7d49779f8cbfa5b4275990) by Floumloum (https://sketchfab.com/floumloum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
