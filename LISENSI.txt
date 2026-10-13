@@ -47,8 +47,10 @@ Lisensi CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 Modifikasi: model dipisahkan berdasarkan organ. Bagian rektum dipotong secara geometris dan memerlukan pemeriksaan anatomi.
 
 7. ANUS (anus.glb)
-Status            : Belum ditambahkan.
-Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+Sumber: Small and large intestine oleh antonia.sundberg
+https://sketchfab.com/3d-models/small-and-large-intestine-8a1ca8e3ca224cdeb9264674416bde38
+Lisensi CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Modifikasi: model dipisahkan berdasarkan organ. Bagian rektum dipotong secara geometris dan memerlukan pemeriksaan anatomi.
 
 CATATAN
 - Atribusi ini tidak berarti para pembuat model mendukung atau berafiliasi dengan JELAJAH CERNA AR.
