@@ -1,0 +1,50 @@
+KREDIT DAN LISENSI MODEL 3D
+JELAJAH CERNA AR
+
+Dokumen ini memuat sumber, pembuat, lisensi, dan perubahan pada model 3D yang digunakan dalam media pembelajaran JELAJAH CERNA AR. Hak cipta masing-masing model tetap berada pada pembuatnya.
+
+1. MULUT (mulut.glb)
+Judul model asli : mouth
+Pembuat           : Floumloum
+Sumber            : https://sketchfab.com/3d-models/mouth-acdf4c0ede7d49779f8cbfa5b4275990
+Lisensi           : Creative Commons Attribution 4.0 International (CC BY 4.0)
+Tautan lisensi    : https://creativecommons.org/licenses/by/4.0/
+Perubahan         : Model disiapkan dalam format GLB untuk ditampilkan pada website pembelajaran; tekstur disesuaikan saat penyiapan file.
+
+2. LAMBUNG (lambung.glb)
+Judul model asli : Stomach
+Pembuat           : SAIKIRAN PANDHINA
+Sumber            : https://sketchfab.com/3d-models/stomach-29b78b9373c943a8bb6c5c2cf4592967
+Lisensi           : Creative Commons Attribution 4.0 International (CC BY 4.0)
+Tautan lisensi    : https://creativecommons.org/licenses/by/4.0/
+Perubahan         : Model disiapkan dalam format GLB untuk ditampilkan pada website pembelajaran.
+
+3. KERONGKONGAN (kerongkongan.glb)
+Judul model asli : Realistic Human Stomach
+Pembuat           : neshallads
+Sumber            : https://sketchfab.com/3d-models/realistic-human-stomach-e0f1952de7204654ba469c3e887a029b
+Lisensi           : Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Tautan lisensi    : https://creativecommons.org/licenses/by-nc/4.0/
+Perubahan         : Bagian saluran di atas lambung dipisahkan dari model asli; tekstur dioptimalkan untuk penggunaan di website. Hasil disimpan sebagai kerongkongan.glb.
+Ketentuan         : Penggunaan model turunan ini dibatasi untuk tujuan nonkomersial, dengan atribusi dan keterangan perubahan.
+
+4. USUS HALUS (usus-halus.glb)
+Status            : Belum ditambahkan.
+Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+
+5. USUS BESAR (usus-besar.glb)
+Status            : Belum ditambahkan.
+Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+
+6. REKTUM (rektum.glb)
+Status            : Belum ditambahkan.
+Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+
+7. ANUS (anus.glb)
+Status            : Belum ditambahkan.
+Sumber, pembuat, dan lisensi akan dicantumkan setelah model dipilih.
+
+CATATAN
+- Atribusi ini tidak berarti para pembuat model mendukung atau berafiliasi dengan JELAJAH CERNA AR.
+- Ketentuan lisensi berlaku pada masing-masing model sesuai tautan di atas.
+- Untuk menambahkan model baru, cukup perbarui dokumen LISENSI.txt ini; tautan lisensi pada index.html tidak perlu diganti selama nama dan lokasi file tetap sama.
